@@ -1,1 +1,2 @@
 # Task-7
+This task involves creating and working with a dictionary to store personal information, accessing and updating its values, deleting unnecessary entries, and iterating through key–value pairs. The dictionary is then converted into JSON format, saved to a file, read back into the program, and finally displayed in a clean and readable output format to demonstrate basic data handling and file operations in Python.
